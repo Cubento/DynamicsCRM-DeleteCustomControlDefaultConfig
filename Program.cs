@@ -108,6 +108,7 @@ namespace CubentoCRM2016
                               "\tuser:  The username used to connect to CRM with.\n" +
                               "\tpass:  The password for the user\n" +
                               "\turl :  The CRM organisation's url\n" +
+                              "\tauth:  Authentication type. Default is Office365" +
                               "\tguid:  The GUID of the Custom Control Default Configuration\n" +
                               "\t       to delete\n" +
                               "\tdel:   Deletes the CCDC from CRM" +
